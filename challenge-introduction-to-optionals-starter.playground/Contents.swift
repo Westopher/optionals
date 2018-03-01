@@ -44,11 +44,13 @@ myFavoriteSong = "Say Anything"
  */
 
 // TODO: Write solution here
+let parsedInt = Int("10")
+
 
 /*:
  Change the string being parsed in the above exercise to a non-integer (try "dog" for example). What does `parsedInt` equal now?
  */
 
 // TODO: Write solution here
-
+let parsedInt2 = Int("dog")
 
